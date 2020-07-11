@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vishal\\source\\repos\\BussinessRuleEngine\\BussinessRuleEngine\\BussinessRuleEngine.csproj",
-      "projectName": "BussinessRuleEngine",
-      "projectPath": "C:\\Users\\Vishal\\source\\repos\\BussinessRuleEngine\\BussinessRuleEngine\\BussinessRuleEngine.csproj",
+      "projectUniqueName": "C:\\Users\\Vishal\\source\\repos\\BussinessRuleEngine\\BussinessRuleEngine\\BusinessRuleEngine.csproj",
+      "projectName": "BusinessRuleEngine",
+      "projectPath": "C:\\Users\\Vishal\\source\\repos\\BussinessRuleEngine\\BussinessRuleEngine\\BusinessRuleEngine.csproj",
       "packagesPath": "C:\\Users\\Vishal\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Vishal\\source\\repos\\BussinessRuleEngine\\BussinessRuleEngine\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,4 +1,9 @@
-﻿using System;
+﻿using BusinessRuleEngine.Common;
+using BusinessRuleEngine.Model;
+using BusinessRuleEngine.View;
+using BussinessRuleEngine.Business.Interface;
+using BussinessRuleEngine.Model;
+using System;
 
 namespace BussinessRuleEngine
 {
@@ -6,16 +11,9 @@ namespace BussinessRuleEngine
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            //process managerInstance
-
-            //product input
-
-            //view
-
-            //payment
-
-            //upgrade
+            // Will take user input from console and process different method
+            ProcessOrder.PopulateUserDetails();
         }
+        
     }
 }

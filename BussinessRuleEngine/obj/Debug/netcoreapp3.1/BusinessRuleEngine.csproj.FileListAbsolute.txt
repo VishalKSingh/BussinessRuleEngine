@@ -1,0 +1,12 @@
+C:\Users\Vishal\source\repos\BussinessRuleEngine\BussinessRuleEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.exe
+C:\Users\Vishal\source\repos\BussinessRuleEngine\BussinessRuleEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.deps.json
+C:\Users\Vishal\source\repos\BussinessRuleEngine\BussinessRuleEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.runtimeconfig.json
+C:\Users\Vishal\source\repos\BussinessRuleEngine\BussinessRuleEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\BussinessRuleEngine\BussinessRuleEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.dll
+C:\Users\Vishal\source\repos\BussinessRuleEngine\BussinessRuleEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.pdb
+C:\Users\Vishal\source\repos\BussinessRuleEngine\BussinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\BussinessRuleEngine\BussinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\BussinessRuleEngine\BussinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\BussinessRuleEngine\BussinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.dll
+C:\Users\Vishal\source\repos\BussinessRuleEngine\BussinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.pdb
+C:\Users\Vishal\source\repos\BussinessRuleEngine\BussinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.genruntimeconfig.cache

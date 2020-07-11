@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fNQZGJG5kDeWEDOqxhK3Dc44VXX1uKXjonY1COxWeCUtVwVMmFusWgVDZOsjBagDCiEfcjLGf//OX4iCBMHiwg==",
+  "dgSpecHash": "eQs6HJZft2RxHQyWb3ikkuT4p2T55ZZA+VLPAmx2ubAOar9wd5+PDI+7zv5F+6ov1suNb6zf7mrSjYnOSnk6yA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vishal\\source\\repos\\BussinessRuleEngine\\BussinessRuleEngine\\BussinessRuleEngine.csproj",
+  "projectFilePath": "C:\\Users\\Vishal\\source\\repos\\BussinessRuleEngine\\BussinessRuleEngine\\BusinessRuleEngine.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
